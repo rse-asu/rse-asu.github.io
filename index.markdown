@@ -1,5 +1,6 @@
 ---
 layout: home
+title: Home
 ---
 
 <section class="py-5 text-center container">
