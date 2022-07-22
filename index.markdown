@@ -21,7 +21,7 @@ title: Home
       <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
         <div class="col">
           <div class="card shadow-sm">
-            <img src="{{ "/assets/images/code-coffee.jpeg" }}" />
+            <img src="{{ "/assets/images/code-coffee-pic.jpg" }}" />
 
             <div class="card-body">
               <p class="card-text">Code & Coffee</p>
@@ -40,10 +40,10 @@ title: Home
 
 
             <div class="card-body">
-              <p class="card-text">ASU-RSE Get-together</p>
+              <p class="card-text">ASU-RSE Get-Together</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
-                  <button type="button" class="btn btn-sm btn-outline-secondary">More...</button>
+                  <a href="{{ "/get-together" }}" class="btn btn-sm btn-outline-secondary">More...</a>
                 </div>
                 <small class="text-muted"></small>
               </div>
