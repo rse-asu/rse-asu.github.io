@@ -7,6 +7,7 @@ date:   2024-04-18 10:00:00 -0400
 event_date: 2024-05-06 10:30:00 -0700
 event_end: 2024-05-06 11:30:00 -0700
 location: WXLR A 106
+zoom: https://asu.zoom.us/j/87393921642?pwd=REt3S1g2d3lHOUNaL211bURRZk12Zz09
 rsvp: https://forms.gle/xFPf8KrTzdfQqiSt8
 snippet: "Dr. Susan Massey will talk about her research software engineering project focused on supporting the analysis of publicly available data from samples sequenced for the Cancer Genome Atlas to determine the status of sex chromosomes within individual samples across subjects and various cancer type cohorts."
 categories: event
