@@ -13,6 +13,17 @@ title: Home
         </p>
       </div>
     </div>
+    <div class="row py-lg-5">
+      <div class="col-lg-6 col-md-8 mx-auto">
+      <h3>Upcoming Events</h3>
+      <p>
+        <i class="fas fa-graduation-cap"></i> <a href="{{ "/get-together" }}">ASU-RSE Get-Together on June 24 2024, 10am MST. Discussion topic: <i>Practice Talk: Embracing Mistakes, Accepting Imperfection</i></a>
+      </p>
+      <p>
+        <i class="fas fa-graduation-cap"></i> <a href="{{ "/code-coffee" }}"><b>Code & Coffee</b> on Monday, July 15, 2024, 10am MST. Mini-tutorial: <i>Choose a License</i></a>
+      </p>
+      </div>
+    </div>
   </section>
 
   <div class="album py-5 bg-light">
