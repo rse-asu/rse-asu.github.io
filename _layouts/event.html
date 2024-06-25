@@ -11,7 +11,7 @@ layout: home
             <h1>{{ page.event_title }}</h1> 
 
             <p>
-            When: {{page.event_date|date:"%B %d, %Y at %I:%M %p"}} - {{page.event_date|date:"%I:%M %p"}}  
+            When: {{page.event_date|date:"%B %d, %Y at %I:%M %p"}} - {{page.event_end|date:"%I:%M %p"}}  
             {% if page.location %}<br>Location: <a href="https://www.asu.edu/map/interactive/">{{page.location}}</a>{% endif %}{% if page.zoom %} and online on <a href="{{page.zoom}}">Zoom</a>{% endif %}
             </p>
 

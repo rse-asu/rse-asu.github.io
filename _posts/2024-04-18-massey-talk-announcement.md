@@ -3,9 +3,9 @@ layout: event
 title:  "ASU-RSE Seminar Series: Dr. Susan Massey"
 series: "ASU-RSE Seminar Series"
 event_title: "Dr. Susan Massey - TCGA Sex Chromosome Status Pipeline"
-date:   2024-04-18 10:00:00 -0400
-event_date: 2024-05-06 10:30:00 -0700
-event_end: 2024-05-06 11:30:00 -0700
+date:   2024-04-18T10:00:00-0400
+event_date: 2024-05-06T10:30:00-0700
+event_end: 2024-05-06T11:30:00-0700
 location: WXLR A 106
 zoom: https://asu.zoom.us/j/87393921642?pwd=REt3S1g2d3lHOUNaL211bURRZk12Zz09
 rsvp: https://forms.gle/xFPf8KrTzdfQqiSt8
