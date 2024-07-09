@@ -25,6 +25,9 @@ title: Home
       <p>
         <i class="fas fa-graduation-cap"></i> <a href="{{ "/code-coffee" }}"><b>Code & Coffee</b> on Monday, August 19, 2024, 10am MST. Mini-tutorial: <i>CKAN</i></a>
       </p>
+      <p>
+        <i class="fas fa-graduation-cap"></i> <a href="{{ "event/2024/07/09/raming-talk.html" }}"><b>ASU-RSE Seminar Series with Dr. Wren Raming</b> on Thursday, September 19, 2024, 11am MST.</a>
+      </p>
       </div>
     </div>
   </section>
