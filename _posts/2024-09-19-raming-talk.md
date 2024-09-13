@@ -7,7 +7,8 @@ date:   2024-07-09T10:00:00-0400
 event_date: 2024-09-19T11:00:00-0700
 event_end: 2024-09-19T12:00:00-0700
 location: WXLR 21
-zoom: 
+zoom: https://asu.zoom.us/j/88908128256
+zoom_password_required: true
 rsvp: https://forms.gle/LLbm7LCVJYrrVoVw7
 snippet: "In this talk, Dr. Wren Raming will examine how an open-source framework enables researchers to achieve reproducibility and transparency of scientific modeling."
 categories: event
