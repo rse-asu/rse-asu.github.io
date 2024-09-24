@@ -21,8 +21,14 @@ title: Home
       <div class="col-lg-3 col-md-8 mx-auto" style="padding: 20px; padding-top: 40px">
       <h3>Upcoming Events</h3>
       <p>
-        <i class="fas fa-comments"></i> <a href="{{ "/get-together" }}">ASU-RSE Get-Together on September 23, 2024, 11am MST. Discussion topic: <i>tbd</i></a>
+        <i class="fas fa-graduation-cap"></i> <a href="{{ "/code-coffee" }}"><b>Code & Coffee</b> on Monday, October 21, 2024, 11am MST. Mini-tutorial: <i>Issue Tracking with GitHub</i></a>
       </p>
+     <!-- <p>
+       <i class="fas fa-bullhorn"></i> <a href="{{ "event/2024/07/09/raming-talk.html" }}"><b>ASU-RSE Seminar Series with Dr. Wren Raming</b> on Thursday, September 19, 2024, 11am MST.</a>
+      </p>
+      <p>
+        <i class="fas fa-comments"></i> <a href="{{ "/get-together" }}">ASU-RSE Get-Together on September 23, 2024, 11am MST. Discussion topic: <i>tbd</i></a>
+      </p>-->
       </div>
     </div>
 
