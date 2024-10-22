@@ -20,22 +20,23 @@ title: Home
     
       <div class="col-lg-3 col-md-8 mx-auto" style="padding: 20px; padding-top: 40px">
       <h3>Upcoming Events</h3>
-      <p>
+      <!--<p>
         <i class="fas fa-graduation-cap"></i> <a href="{{ "/code-coffee" }}"><b>Code & Coffee</b> on Monday, October 21, 2024, 11am MST. Mini-tutorial: <i>Issue Tracking with GitHub</i></a>
       </p>
-     <!-- <p>
-       <i class="fas fa-bullhorn"></i> <a href="{{ "event/2024/07/09/raming-talk.html" }}"><b>ASU-RSE Seminar Series with Dr. Wren Raming</b> on Thursday, September 19, 2024, 11am MST.</a>
-      </p>
       <p>
-        <i class="fas fa-comments"></i> <a href="{{ "/get-together" }}">ASU-RSE Get-Together on September 23, 2024, 11am MST. Discussion topic: <i>tbd</i></a>
+       <i class="fas fa-bullhorn"></i> <a href="{{ "event/2024/07/09/raming-talk.html" }}"><b>ASU-RSE Seminar Series with Dr. Wren Raming</b> on Thursday, September 19, 2024, 11am MST.</a>
       </p>-->
+      <p>
+        <i class="fas fa-comments"></i> <a href="{{ "/get-together" }}">ASU-RSE Get-Together on October 28, 2024, 11am MST. Discussion topic: <i>Teaching Research Software Engineering</i></a>
+      </p>
       </div>
     </div>
 
+<!--
     <div class="col-lg-9 col-md-8 mx-auto" style="background-color: #ffdf78; padding: 20px; border-radius: 15px;">
       <h2 class="fw-light"><i class="fas fa-bullhorn"></i>  ASU-RSE Seminar Series: Dr. Wren Raming</h2>
         Join us on Thursday, <i>September 19, 2024, 11am MST</i> for the <a href="{{ "event/2024/07/09/raming-talk.html" }}">ASU-RSE Seminar Series</a> with Dr. Wren Raming.
-      </div>
+      </div>-->
   </section>
 
   <div class="album py-5 bg-light">
