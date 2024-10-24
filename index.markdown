@@ -39,7 +39,23 @@ title: Home
       </div>-->
   </section>
 
-  <div class="album py-5 bg-light">
+  <div class="bg-light py-5 album">
+    <div class="container">
+    <h1 style="padding-bottom: 0.5em"><a href="/news.html">News</a></h1>
+    {% for post in site.posts limit:1 %}
+    <h4><a style="text-decoration:none" href="{{ post.url }}">{{ post.title }}</a></h4>
+    <p>
+    {% if post.image %}
+    <img src="{{post.image}}" style="border-radius: 5px; float:left; width:150px; margin-right: 20px; margin-bottom: 20px;">
+    {% endif %}
+    {{post.excerpt}}
+    <a href="{{ post.url }}">Read more...</a>
+    </p>
+    {% endfor %}
+    </div>
+  </div>
+
+  <div class="album py-5" style="clear:both">
     <div class="container">
 
       <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
