@@ -21,7 +21,13 @@ title: Home
       <div class="col-lg-3 col-md-8 mx-auto" style="padding: 20px; padding-top: 40px">
       <h3>Upcoming Events</h3>
       <p>
-        <i class="fas fa-graduation-cap"></i> <a href="{{ "/code-coffee" }}"><b>Code & Coffee</b> on Monday, January 27, 2025, 11am MST. Mini-tutorial: <i>GitHub Issues</i></a>
+        <i class="fas fa-comments"></i> <a href="{{ "/get-together" }}">ASU-RSE Get-Together on February 3, 2025, 11am MST. Discussion topic: <i>Transitioning into an RSE Role</i></a>
+      </p>
+      <p>
+        <i class="fas fa-graduation-cap"></i> <a href="{{ "/code-coffee" }}"><b>Code & Coffee</b> on Monday, February 17, 2025, 11am MST. Mini-tutorial: <i>TBD</i></a>
+      </p>
+      <p>
+        <i class="fas fa-comments"></i> <a href="{{ "/get-together" }}">ASU-RSE Get-Together on February 24, 2025, 11am MST. Discussion topic: <i>Project Management</i></a>
       </p>
       <!--
       <p>
