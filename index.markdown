@@ -21,21 +21,15 @@ title: Home
       <div class="col-lg-3 col-md-8 mx-auto" style="padding: 20px; padding-top: 40px">
       <h3>Upcoming Events</h3>
       <p>
-        <i class="fas fa-comments"></i> <a href="{{ "/get-together" }}">ASU-RSE Get-Together on February 3, 2025, 11am MST. Discussion topic: <i>Transitioning into an RSE Role</i></a>
+        <i class="fas fa-graduation-cap"></i> <a href="{{ "/code-coffee" }}"><b>Code & Coffee</b> on Monday, March 17, 2025, 11am MST. Mini-tutorial: <i>Conventional Commits</i></a>
       </p>
       <p>
-        <i class="fas fa-graduation-cap"></i> <a href="{{ "/code-coffee" }}"><b>Code & Coffee</b> on Monday, February 17, 2025, 11am MST. Mini-tutorial: <i>TBD</i></a>
+        <i class="fas fa-comments"></i> <a href="{{ "/get-together" }}">ASU-RSE Get-Together on March 24, 2025, 11am MST. Discussion topic: <i>Software Documentation</i></a>
       </p>
       <p>
-        <i class="fas fa-comments"></i> <a href="{{ "/get-together" }}">ASU-RSE Get-Together on February 24, 2025, 11am MST. Discussion topic: <i>Project Management</i></a>
+       <i class="fas fa-bullhorn"></i> <a href="{{ "events/2025-04-14-inperson-asu-rse.html" }}"><b>ASU-RSE In-Person Meetup</b> on Monday, April 14, 2024, 3pm MST.</a>
       </p>
-      <!--
-      <p>
-       <i class="fas fa-bullhorn"></i> <a href="{{ "event/2024/07/09/raming-talk.html" }}"><b>ASU-RSE Seminar Series with Dr. Wren Raming</b> on Thursday, September 19, 2024, 11am MST.</a>
-      </p>
-      <p>
-        <i class="fas fa-comments"></i> <a href="{{ "/get-together" }}">ASU-RSE Get-Together on October 28, 2024, 11am MST. Discussion topic: <i>Teaching Research Software Engineering</i></a>
-      </p>-->
+      <!-- -->
       </div>
     </div>
 

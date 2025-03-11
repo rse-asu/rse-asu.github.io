@@ -14,7 +14,7 @@ title: ASU-RSE Events
             <li class="list-group-item">
               <h4><a href="{{ post.url }}">{{ post.title }}</a></h4>
               <p>
-              {{post.event_date|date:"%B %d, %Y at %I:%m %p"}}
+              {{post.event_date|date:"%B %d, %Y at %I:%M %p"}}
               {% if post.location %}<br>Location: <a href="https://www.asu.edu/map/interactive/">{{post.location}}</a>{% endif %}
             </p>
               <p>
