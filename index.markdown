@@ -27,17 +27,18 @@ title: Home
         <i class="fas fa-comments"></i> <a href="{{ "/get-together" }}">ASU-RSE Get-Together on March 24, 2025, 11am MST. Discussion topic: <i>Software Documentation</i></a>
       </p>
       <p>
-       <i class="fas fa-bullhorn"></i> <a href="{{ "events/2025-04-14-inperson-asu-rse.html" }}"><b>ASU-RSE In-Person Meetup</b> on Monday, April 14, 2024, 3pm MST.</a>
+       <i class="fas fa-bullhorn"></i> <a href="{{ "events/2025-04-14-inperson-asu-rse.html" }}"><b>ASU-RSE In-Person Event</b> on Wednesday, April 16, 2024, 3pm MST.</a>
       </p>
       <!-- -->
       </div>
     </div>
 
-<!--
+
     <div class="col-lg-9 col-md-8 mx-auto" style="background-color: #ffdf78; padding: 20px; border-radius: 15px;">
-      <h2 class="fw-light"><i class="fas fa-bullhorn"></i>  ASU-RSE Seminar Series: Dr. Wren Raming</h2>
-        Join us on Thursday, <i>September 19, 2024, 11am MST</i> for the <a href="{{ "event/2024/07/09/raming-talk.html" }}">ASU-RSE Seminar Series</a> with Dr. Wren Raming.
-      </div>-->
+      <h2 class="fw-light"><i class="fas fa-bullhorn"></i>  
+ASU-RSE In-Person Event</h2>
+        Join us on Wednesday, <i>April 16, 2025, 3-5pm MST</i> for an <a href="{{ "events/2025-04-14-inperson-asu-rse.html" }}">in-person event</a> and meet your fellow RSEs at ASU!.
+      </div>
   </section>
 
   <div class="bg-light py-5 album">
