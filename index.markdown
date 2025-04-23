@@ -21,12 +21,12 @@ title: Home
       <div class="col-lg-3 col-md-8 mx-auto" style="padding: 20px; padding-top: 40px">
       <h3>Upcoming Events</h3>
       <p>
-        <i class="fas fa-graduation-cap"></i> <a href="{{ "/code-coffee" }}"><b>Code & Coffee</b> on Monday, March 17, 2025, 11am MST. Mini-tutorial: <i>Conventional Commits</i></a>
+        <i class="fas fa-graduation-cap"></i> <a href="{{ "/code-coffee" }}"><b>Code & Coffee</b> on Monday, April 28, 2025, 11am MST. Mini-tutorial: <i>uv - a Python package manager</i></a>
       </p>
       <p>
-        <i class="fas fa-comments"></i> <a href="{{ "/get-together" }}">ASU-RSE Get-Together on March 24, 2025, 11am MST. Discussion topic: <i>Software Documentation</i></a>
+        <i class="fas fa-comments"></i> <a href="{{ "/get-together" }}">ASU-RSE Get-Together on May 5, 2025, 11am MST. Discussion topic: <i>tbd</i></a>
       </p>
-      <p>
+      <!--<p>
        <i class="fas fa-bullhorn"></i> <a href="{{ "events/2025-04-14-inperson-asu-rse.html" }}"><b>ASU-RSE In-Person Event</b> on Wednesday, April 16, 2024, 3pm MST.</a>
       </p>
       <!-- -->
@@ -34,11 +34,11 @@ title: Home
     </div>
 
 
-    <div class="col-lg-9 col-md-8 mx-auto" style="background-color: #ffdf78; padding: 20px; border-radius: 15px;">
+    <!--<div class="col-lg-9 col-md-8 mx-auto" style="background-color: #ffdf78; padding: 20px; border-radius: 15px;">
       <h2 class="fw-light"><i class="fas fa-bullhorn"></i>  
 ASU-RSE In-Person Event</h2>
         Join us on Wednesday, <i>April 16, 2025, 3-5pm MST</i> for an <a href="{{ "events/2025-04-14-inperson-asu-rse.html" }}">in-person event</a> and meet your fellow RSEs at ASU!.
-      </div>
+      </div>-->
   </section>
 
   <div class="bg-light py-5 album">
