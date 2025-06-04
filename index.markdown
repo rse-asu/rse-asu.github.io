@@ -22,10 +22,21 @@ title: Home
       <h3>Upcoming Events</h3>
       <!--<p>
         <i class="fas fa-graduation-cap"></i> <a href="{{ "/code-coffee" }}"><b>Code & Coffee</b> on Monday, May 19, 2025, 11am MST. Mini-tutorial: <i>Practice Talk - Supporting quantum-inspired optimization on a university compute cluster</i></a>
-      </p>-->
-      <p>
-        <i class="fas fa-comments"></i> <a href="{{ "/get-together" }}">ASU-RSE Get-Together on June 2, 2025, 11am MST. Discussion topic: <i>Linting</i></a>
       </p>
+      <p>
+        <i class="fas fa-comments"></i> <a href="{{ "/get-together" }}">ASU-RSE Get-Together on June 2, 2025, 11am MST. Discussion topic: <i>Linting</i></a>-->
+      <p>
+        <i class="fas fa-graduation-cap"></i> <a href="{{ "/code-coffee" }}"><b>Code & Coffee</b> on Monday, June 16, 2025, 11am MST. Mini-tutorial: <i>GitKraken - Using Git through a GUI</i></a>
+      </p>
+      <p>
+        <i class="fas fa-graduation-cap"></i> No <b>Code & Coffee</b> in July
+      </p>
+      <p>
+         <i class="fas fa-bullhorn"></i> <a href="{{ "/rse-consultation" }}">Free Research Software Engineering Consultation through June</a>
+      </p>
+      <!--<p>
+        <i class="fas fa-comments"></i> <a href="{{ "/get-together" }}">ASU-RSE Get-Together on May 26, 2025, 11am MST. Discussion topic: <i>Linting</i></a>
+      </p>-->
       <!--<p>
        <i class="fas fa-bullhorn"></i> <a href="{{ "events/2025-04-14-inperson-asu-rse.html" }}"><b>ASU-RSE In-Person Event</b> on Wednesday, April 16, 2024, 3pm MST.</a>
       </p>
