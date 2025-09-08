@@ -27,7 +27,7 @@ title: Home
         <i class="fas fa-comments"></i> <a href="{{ "/get-together" }}">ASU-RSE Get-Together on June 2, 2025, 11am MST. Discussion topic: <i>Linting</i></a>
       </p>-->
       <p>
-        <i class="fas fa-graduation-cap"></i> <a href="{{ "/code-coffee" }}"><b>Code & Coffee</b> on Monday, Sept. 15, 2025, 11am MST. Mini-tutorial: <i>tbd</i></a>
+        <i class="fas fa-graduation-cap"></i> <a href="{{ "/code-coffee" }}"><b>Code & Coffee</b> on Monday, Sept. 15, 2025, 11am MST. Mini-tutorial: <i>Nextflow - Job Array feature in a Nextflow Workflow<</i></a>
       </p>
       <!--<p>
         <i class="fas fa-graduation-cap"></i> No <b>Code & Coffee</b> in August
