@@ -21,7 +21,7 @@ Request a free 45-minute consultation to get expert insights on your research so
  ✘ Full code reviews  
  ✘ Help with homework assignments or coding projects that are not related to research
 
-Not sure if your project qualifies? Reach out to Julia Damerow (jdamerow@asu.edu) or Susan Massey (susan.massey@asu.edu) to learn more.
+Not sure if your project qualifies? Reach out to Julia Damerow (jdamerow@asu.edu) and Susan Massey (susan.massey@asu.edu) to learn more.
 
 👉 **Ready to get started?** [Submit your request today](https://forms.gle/y76AHhe7VLUtMDuf9) and take the next step in strengthening your research software!
 
