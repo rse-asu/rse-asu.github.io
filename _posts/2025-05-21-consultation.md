@@ -16,7 +16,7 @@ Request a free 45-minute consultation to get expert insights on your research so
  ✔ A focused 45-minute consultation  
  ✔ Actionable notes and guidance  
 
-🚫 **What we don’t offer:**  
+🚫 **What we don’t offer (for free):**  
  ✘ Implementation or coding work  
  ✘ Full code reviews  
  ✘ Help with homework assignments or coding projects that are not related to research
