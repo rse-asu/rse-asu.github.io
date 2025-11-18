@@ -20,17 +20,17 @@ title: Home
     
       <div class="col-lg-3 col-md-8 mx-auto" style="padding: 20px; padding-top: 40px">
       <h3>Upcoming Events</h3>
-     <p>
+     <!--<p>
         <i class="fas fa-graduation-cap"></i> <a href="{{ "/code-coffee" }}"><b>Code & Coffee</b> on Monday, October 20, 2025, 11am MST. Mini-tutorial: <i>Steamlit—an open-source app framework</i></a>
       </p>
-      <!--<p>
+      <p>
         <i class="fas fa-graduation-cap"></i> No <b>Code & Coffee</b> in August
       </p>-->
       <!--<p>
          <i class="fas fa-bullhorn"></i> <a href="{{ "/rse-consultation" }}">Free Research Software Engineering Consultation through the end of the summer</a>
       </p>-->
       <p>
-        <i class="fas fa-comments"></i> <a href="{{ "/get-together" }}">ASU-RSE Get-Together on October 27, 2025, 11am MST. Discussion topic: <i>tbd</i></a>
+        <i class="fas fa-comments"></i> <a href="{{ "/get-together" }}">ASU-RSE Get-Together on November 24, 2025, 11am MST. Discussion topic: <i>Security of research software (Secure Coding Practices)</i></a>
       </p>
       <!--<p>
        <i class="fas fa-bullhorn"></i> <a href="{{ "events/2025-04-14-inperson-asu-rse.html" }}"><b>ASU-RSE In-Person Event</b> on Wednesday, April 16, 2024, 3pm MST.</a>
