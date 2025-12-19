@@ -8,7 +8,7 @@ event_date: 2026-01-07T13:00:00-0700
 event_end: 2026-01-07T14:00:00-0700
 rsvp: https://asu.zoom.us/meeting/register/hxbo0X7BSmKAXbgQY26szg
 snippet: 'What does it take to effectively code for research and develop research software? We will kick off the new seminar series "Enabling Research: A Seminar Series on Research Software" with a seminar focusing on this question and more!' 
-categories: event
+categories: ["event", "rseseminar"]
 ---
 <table>
 <tr>

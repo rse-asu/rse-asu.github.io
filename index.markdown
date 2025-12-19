@@ -28,23 +28,26 @@ title: Home
       </p>-->
       <!--<p>
          <i class="fas fa-bullhorn"></i> <a href="{{ "/rse-consultation" }}">Free Research Software Engineering Consultation through the end of the summer</a>
-      </p>-->
+      </p>
       <p>
         <i class="fas fa-comments"></i> <a href="{{ "/get-together" }}">ASU-RSE Get-Together on November 24, 2025, 11am MST. Discussion topic: <i>Security of research software (Secure Coding Practices)</i></a>
+      </p>-->
+      <p>
+       <i class="fas fa-bullhorn"></i> <a href="{{ "/events/2025-10-22-enabling-research-seminar-series.html" }}">The Researcher’s Guide to Including Code Responsibly</a> on January 7, 2026 at 1pm MST. Part of <a href="{{ "/enabling-research-seminar-series" }}">Enabling Research: A Seminar Series on Research Software</a>.
       </p>
-      <!--<p>
-       <i class="fas fa-bullhorn"></i> <a href="{{ "events/2025-04-14-inperson-asu-rse.html" }}"><b>ASU-RSE In-Person Event</b> on Wednesday, April 16, 2024, 3pm MST.</a>
+      <p>
+       <i class="fas fa-bullhorn"></i> <a href="{{ "/events/2025-12-19-enabling-research-sheldus.html" }}">SHELDUS</a> on February 4, 2026 at 1pm MST. Part of <a href="{{ "/enabling-research-seminar-series" }}">Enabling Research: A Seminar Series on Research Software</a>.
       </p>
-      <!-- -->
+      
       </div>
     </div>
 
 
-    <!--<div class="col-lg-9 col-md-8 mx-auto" style="background-color: #ffdf78; padding: 20px; border-radius: 15px;">
+    <div class="col-lg-9 col-md-8 mx-auto" style="background-color: #ffdf78; padding: 20px; border-radius: 15px;">
       <h2 class="fw-light"><i class="fas fa-bullhorn"></i>  
-ASU-RSE In-Person Event</h2>
-        Join us on Wednesday, <i>April 16, 2025, 3-5pm MST</i> for an <a href="{{ "events/2025-04-14-inperson-asu-rse.html" }}">in-person event</a> and meet your fellow RSEs at ASU!.
-      </div>-->
+New Seminar Series</h2>
+        We are pleased to announce a new virtual seminar series, <a href="{{ "/enabling-research-seminar-series" }}">Enabling Research: A Seminar Series on Research Software</a>, organized by ASU-RSE! This seminar series explores how research software drives discovery across disciplines.
+      </div>
   </section>
 
   <div class="bg-light py-5 album">

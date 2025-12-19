@@ -1,7 +1,69 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-    <meta http-equiv="refresh" content="0;url=/events/2025-10-22-enabling-research-seminar-series.html" />
-  </head>
-</html>
+---
+layout: home
+title: Enabling Research - A Seminar Series on Research Software
+---
+
+<div class="album py-5 bg-light">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-5">
+                <img src="{{ "/assets/images/rse-chart.png" }}" width="500px" class="rounded img-fluid" >
+            </div>
+            <div class="col-md-7 text-center" style="vertical-align: middle;">
+                <h1 style="padding-top: 30px">Enabling Research: A Seminar Series on Research Software</h1>
+                <p class="fs-4">We are pleased to announce a new virtual seminar series organized by ASU-RSE!</p>
+                <h4 style="padding-top: 20px">
+                    Next seminar: <br>
+                    <i>The Researcher’s Guide to Including Code Responsibly</i><br>
+                    January 7, 2026 at 1pm MST on Zoom
+                </h4>
+                <p>
+                    <a class="btn btn-primary my-2" target="_blank" href="https://asu.zoom.us/meeting/register/hxbo0X7BSmKAXbgQY26szg">Please register here</a>
+                </p>
+               <p>
+                    
+                </p>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div class="album py-5 ">
+  <div class="container">
+      <div class="row">
+        <p>
+          We are pleased to announce a new virtual seminar series, <b>Enabling Research: A Seminar Series on Research Software</b>, organized by ASU-RSE! This seminar series explores how research software drives discovery across disciplines. Each session features researchers and software engineers sharing insights into the tools, practices, and collaborations that make modern science possible, and the challenges they face. Whether you develop software, rely on it for your research, or are simply curious about the intersection of technology and science, this series offers inspiration and practical knowledge for all.  
+          </p>
+          <p>
+          The following seminars are scheduled this spring and we hope you will join us in exploring the intersection of research and software development.
+        </p>
+        <ul class="list-group">
+          {% assign curr_date = site.time | date: "%Y-%m-%d" %}
+          {% assign posts = site.events | where_exp:"item", "item.categories contains 'rseseminar'" %}
+          {% for post in posts  %}
+          {% assign event_date = post.event_date | date: "%Y-%m-%d" %}
+          {% if curr_date < event_date %}
+            <li class="list-group-item">
+              <h5><a href="{{ post.url }}">{{ post.title }}</a></h5>
+              <p>
+              {{post.event_date|date:"%B %d, %Y at %I:%M %p"}}
+              {% if post.location %}<br>Location: <a href="https://www.asu.edu/map/interactive/">{{post.location}}</a>{% endif %}
+              </p>
+              <p>
+              {{ post.snippet }}
+              </p>
+              <p>
+              <a href="{{ post.url }}">Read more...</a>
+              </p>
+              
+            </li>
+          {% endif %}
+          {% endfor %}
+        </ul>
+    </div>
+  </div>
+</div>
+
+
+
