@@ -13,6 +13,11 @@ layout: home
             <p>
             When: <b>{{page.event_date|date:"%B %d, %Y at %I:%M %p"}} - {{page.event_end|date:"%I:%M %p"}}</b> 
             {% if page.location %}<br>Location: <a href="https://www.asu.edu/map/interactive/">{{page.location}}</a>{% endif %}{% if page.zoom %} and online on <a href="{{page.zoom}}">Zoom</a>{% endif %} {% if page.zoom_password_required %}(please <a href="{{page.rsvp}}">RSVP</a> to receive password.){% endif %}
+            {% if page.speakers %}
+            <br>
+                Speakers: <b>{{ page.speakers | join: ", " }}</b>
+            
+            {% endif %}
             </p>
 
             {{ content }}
