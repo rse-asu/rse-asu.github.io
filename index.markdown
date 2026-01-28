@@ -22,12 +22,9 @@ title: Home
       <h3>Upcoming Events</h3>
      <p>
         <i class="fas fa-graduation-cap"></i> <a href="{{ "/code-coffee" }}"><b>Code & Coffee</b> on Monday, February 2, 2026, 11am MST. Mini-tutorial: <i>The GitHub CLI</i></a>
-      </p>-->
-      <p>
-        <i class="fas fa-graduation-cap"></i> No <b>Code & Coffee</b> in August
       </p>
       <!--<p>
-         <i class="fas fa-bullhorn"></i> <a href="{{ "/rse-consultation" }}">Free Research Software Engineering Consultation through the end of the summer</a>
+        <i class="fas fa-graduation-cap"></i> No <b>Code & Coffee</b> in August
       </p>
       <p>
         <i class="fas fa-comments"></i> <a href="{{ "/get-together" }}">ASU-RSE Get-Together on November 24, 2025, 11am MST. Discussion topic: <i>Security of research software (Secure Coding Practices)</i></a>
