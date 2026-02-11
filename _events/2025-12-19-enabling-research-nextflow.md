@@ -1,8 +1,8 @@
 ---
 layout: event
-title:  "Scaling up computation for research workflows across platforms"
+title:  "How Modern Workflow Systems Enhance Research Throughput and Reliability"
 series: "Enabling Research: A Seminar Series on Research Software"
-event_title: "Scaling up computation for research workflows across platforms"
+event_title: "How Modern Workflow Systems Enhance Research Throughput and Reliability"
 date:   2025-12-19T11:00:00-0400
 event_date: 2026-03-04T13:00:00-0700
 event_end: 2026-03-04T14:00:00-0700
