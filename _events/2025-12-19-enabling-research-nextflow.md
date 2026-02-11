@@ -15,7 +15,17 @@ speakers: ["Nil Mu"]
 <tr>
 <td valign="top" style="padding: 15px;">
 <p>
- As research software engineers, we face a fundamental challenge: building scalable, maintainable computational pipelines that can grow from prototype to production while remaining reproducible and efficient. Traditional approaches—shell scripts with hardcoded paths, manual job submission, ad-hoc resource allocation—quickly become technical debt that impedes both research velocity and software quality. Workflow Managment Software like Nextflow offers a software engineering solution to this problem, providing declarative workflow definitions, separation of concerns between logic and execution, and infrastructure-as-code principles for local, cloud and HPC environments. This presentation examines Nextflow resource management on SLURM clusters through an engineering lens, focusing on design patterns, configuration management, and system optimization. Using make_lastz_chains—a computationally demanding genome alignment pipeline—we'll explore how proper executor configuration, process-level resource directives, and monitoring strategies create robust, scalable research software. We'll cover architectural considerations for pipeline design, common anti-patterns that lead to resource contention or underutilization, and engineering best practices for deploying workflows across HPC infrastructures. The goal is equipping you with software engineering principles that transform research code into reliable, scalable research software.
+     In computational research, the gap between a working prototype and a production-ready analysis often becomes a major bottleneck for scientific discovery. Principal Investigators and research groups frequently struggle with fragile scripts, manual data handling, and inefficient resource usage that slow down time-to-result and complicate reproducibility. This seminar explores how Research Software Engineering (RSE) practices—specifically using Workflow Management Systems like Nextflow—can directly address these challenges to benefit your research.
+</p>
+<p>
+        Using a real-world, computationally intensive case study, we will demonstrate how modern workflows transform complex analyses into robust, automated pipelines. Rather than focusing on code, we will discuss the tangible benefits for research groups, including:
+ <ul>
+        <li> Scalability: Effortlessly moving analysis from a single laptop to massive HPC clusters without rewriting software.</li>
+        <li> Resource Efficiency: Optimizing grant resources by maximizing computational throughput and minimizing wasted compute time.</li>
+        <li> Portability: Enabling seamless collaboration by making pipelines easy to share and run across different institutions or cloud environments.</li>
+        <li> Reproducibility: Ensuring that results generated today can be exactly replicated months or years later by any lab member.</li>
+
+</ul>
 </p>
 <p>
 Join us on Wednesday, Mar. 4 at 1pm MST on Zoom!
