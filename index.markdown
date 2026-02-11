@@ -33,7 +33,7 @@ title: Home
        <i class="fas fa-bullhorn"></i> <a href="{{ "/events/2025-10-22-enabling-research-seminar-series.html" }}">The Researcher’s Guide to Including Code Responsibly</a> on January 7, 2026 at 1pm MST. Part of <a href="{{ "/enabling-research-seminar-series" }}">Enabling Research: A Seminar Series on Research Software</a>.
       </p>-->
       <p>
-       <i class="fas fa-bullhorn"></i> <a href="{{ "/events/2025-12-19-enabling-research-sheldus.html" }}">SHELDUS</a> on February 4, 2026 at 1pm MST. Part of <a href="{{ "/enabling-research-seminar-series" }}">Enabling Research: A Seminar Series on Research Software</a>. Part of <a href="{{ "/enabling-research-seminar-series" }}">Enabling Research: A Seminar Series on Research Software</a>.
+       <i class="fas fa-bullhorn"></i> <a href="{{ "/events/2025-12-19-enabling-research-nextflow.html" }}">Modern Workflow Systems</a> on March 4, 2026 at 1pm MST. Part of <a href="{{ "/enabling-research-seminar-series" }}">Enabling Research: A Seminar Series on Research Software</a>.
       </p>
       
       </div>
