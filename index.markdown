@@ -20,20 +20,20 @@ title: Home
     
       <div class="col-lg-3 col-md-8 mx-auto" style="padding: 20px; padding-top: 40px">
       <h3>Upcoming Events</h3>
-     <p>
+     <!--<p>
         <i class="fas fa-graduation-cap"></i> <a href="{{ "/code-coffee" }}"><b>Code & Coffee</b> on Monday, February 2, 2026, 11am MST. Mini-tutorial: <i>The GitHub CLI</i></a>
       </p>
-      <!--<p>
+      <p>
         <i class="fas fa-graduation-cap"></i> No <b>Code & Coffee</b> in August
-      </p>
-      <p>
-        <i class="fas fa-comments"></i> <a href="{{ "/get-together" }}">ASU-RSE Get-Together on November 24, 2025, 11am MST. Discussion topic: <i>Security of research software (Secure Coding Practices)</i></a>
-      </p>
-      <p>
-       <i class="fas fa-bullhorn"></i> <a href="{{ "/events/2025-10-22-enabling-research-seminar-series.html" }}">The Researcher’s Guide to Including Code Responsibly</a> on January 7, 2026 at 1pm MST. Part of <a href="{{ "/enabling-research-seminar-series" }}">Enabling Research: A Seminar Series on Research Software</a>.
       </p>-->
       <p>
-       <i class="fas fa-bullhorn"></i> <a href="{{ "/events/2025-12-19-enabling-research-nextflow.html" }}">Modern Workflow Systems</a> on March 4, 2026 at 1pm MST. Part of <a href="{{ "/enabling-research-seminar-series" }}">Enabling Research: A Seminar Series on Research Software</a>.
+        <i class="fas fa-comments"></i> <a href="{{ "/get-together" }}">ASU-RSE Get-Together on March 23, 2025, 11am MST. Discussion topic: <i>tbd</i></a>
+      </p>
+      <p>
+       <!--<i class="fas fa-bullhorn"></i> <a href="{{ "/events/2025-10-22-enabling-research-seminar-series.html" }}">The Researcher’s Guide to Including Code Responsibly</a> on January 7, 2026 at 1pm MST. Part of <a href="{{ "/enabling-research-seminar-series" }}">Enabling Research: A Seminar Series on Research Software</a>.
+      </p>-->
+      <p>
+       <i class="fas fa-bullhorn"></i> <a href="{{ "/events/2025-12-19-enabling-research-llms.html" }}">The good, the bad, the "it's complicated": lessons learned from developing an agentic workflow and orchestration platform to bring LLM capabilities to CoMSES.Net</a> on April 1, 2026 at 1pm MST. Part of <a href="{{ "/enabling-research-seminar-series" }}">Enabling Research: A Seminar Series on Research Software</a>.
       </p>
       
       </div>
