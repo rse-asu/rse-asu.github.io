@@ -2,7 +2,7 @@
 layout: event
 title:  "The good, the bad, the \"it's complicated\": lessons learned from developing an agentic workflow and orchestration platform to bring LLM capabilities to CoMSES.Net"
 series: "Enabling Research: A Seminar Series on Research Software"
-event_title: "Agentic workflow applications with LLMs"
+event_title: "The good, the bad, the \"it's complicated\": lessons learned from developing an agentic workflow and orchestration platform to bring LLM capabilities to CoMSES.Net"
 date:   2025-12-19T12:00:00-0400
 event_date: 2026-04-01T13:00:00-0700
 event_end: 2026-04-01T14:00:00-0700
@@ -15,7 +15,7 @@ speakers: ["Allen Lee"]
 <tr>
 <td valign="top" style="padding: 15px;">
 <p>
-AI agents that leverage LLMs are becoming ubiquitous in our modern technology stacks. We'll discuss lessons learned from developing agentic workflows using commercial and open LLMs to do LLM things with the CoMSES.Net Computational Model Library.
+AI agents that leverage LLMs are becoming ubiquitous in our modern technology stacks. We'll discuss lessons learned from developing agentic workflows using commercial and open LLMs to do LLM things with the [CoMSES.Net](http://comses.net/) Computational Model Library.
 </p>
 <p>
 Join us on Wednesday, April. 1 at 1pm MST on Zoom!
