@@ -15,7 +15,7 @@ speakers: ["Allen Lee"]
 <tr>
 <td valign="top" style="padding: 15px;">
 <p>
-AI agents that leverage LLMs are becoming ubiquitous in our modern technology stacks. We'll discuss lessons learned from developing agentic workflows using commercial and open LLMs to do LLM things with the [CoMSES.Net](http://comses.net/) Computational Model Library.
+AI agents that leverage LLMs are becoming ubiquitous in our modern technology stacks. We'll discuss lessons learned from developing agentic workflows using commercial and open LLMs to do LLM things with the <a href="http://comses.net/">CoMSES.Net</a> Computational Model Library.
 </p>
 <p>
 Join us on Wednesday, April. 1 at 1pm MST on Zoom!
