@@ -23,6 +23,6 @@ Request a free 45-minute consultation to get expert insights on your research so
 
 Not sure if your project qualifies? Reach out to Julia Damerow and Susan Massey at rse-team@asu.edu to learn more.
 
-👉 **Talk to us** [Submit your request today](https://asu.service-now.com/sp?id=sc_cat_item&sys_id=ba8a031a47323254429bfa57436d43da&table=sc_cat_item&searchTerm=Research%20Software%20Engineering%20Services%20and%20Consultation) and take the next step in strengthening your research software!
+👉 **Talk to us!** [Submit your request today](https://asu.service-now.com/sp?id=sc_cat_item&sys_id=ba8a031a47323254429bfa57436d43da&table=sc_cat_item&searchTerm=Research%20Software%20Engineering%20Services%20and%20Consultation) and take the next step in strengthening your research software!
 
 
