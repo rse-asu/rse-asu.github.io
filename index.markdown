@@ -25,10 +25,10 @@ title: Home
       </p>
       <p>
         <i class="fas fa-graduation-cap"></i> No <b>Code & Coffee</b> in August
-      </p>-->
+      </p>
       <p>
         <i class="fas fa-comments"></i> <a href="{{ "/get-together" }}">ASU-RSE Get-Together on March 23, 2025, 11am MST. Discussion topic: <i>tbd</i></a>
-      </p>
+      </p>-->
       <!--<p>
        <i class="fas fa-bullhorn"></i> <a href="{{ "/events/2025-10-22-enabling-research-seminar-series.html" }}">The Researcher’s Guide to Including Code Responsibly</a> on January 7, 2026 at 1pm MST. Part of <a href="{{ "/enabling-research-seminar-series" }}">Enabling Research: A Seminar Series on Research Software</a>.
       </p>-->
