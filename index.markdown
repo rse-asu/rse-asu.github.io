@@ -33,7 +33,7 @@ title: Home
        <i class="fas fa-bullhorn"></i> <a href="{{ "/events/2025-10-22-enabling-research-seminar-series.html" }}">The Researcher’s Guide to Including Code Responsibly</a> on January 7, 2026 at 1pm MST. Part of <a href="{{ "/enabling-research-seminar-series" }}">Enabling Research: A Seminar Series on Research Software</a>.
       </p>-->
       <p>
-       <i class="fas fa-bullhorn"></i> <a href="{{ "/events/2025-12-19-enabling-research-llms.html" }}">The good, the bad, the "it's complicated": lessons learned from developing an agentic workflow and orchestration platform to bring LLM capabilities to CoMSES.Net</a> on April 1, 2026 at 1pm MST. Part of <a href="{{ "/enabling-research-seminar-series" }}">Enabling Research: A Seminar Series on Research Software</a>.
+       <i class="fas fa-bullhorn"></i> <a href="{{ "/events/2025-12-19-enabling-research-tdar.html" }}">The past, present, and future of the Digital Archaeological Record: Research computing for the long-term preservation of archaeological data</a> on May 6, 2026 at 1pm MST. Part of <a href="{{ "/enabling-research-seminar-series" }}">Enabling Research: A Seminar Series on Research Software</a>.
       </p>
       
       </div>
