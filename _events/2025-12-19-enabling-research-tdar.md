@@ -8,7 +8,7 @@ event_date: 2026-05-06T13:00:00-0700
 event_end: 2026-05-06T14:00:00-0700
 rsvp: https://asu.zoom.us/meeting/register/hxbo0X7BSmKAXbgQY26szg
 snippet: 'Archaeological data is inherently fragile, and unfortunately prone to loss and mismanagement. To alleviate these issues, the Center for Digital Antiquity (CDA) created The Digital Archaeological Record (tDAR), an online repository for archaeological information focused on long-term preservation and reuse.' 
-speakers: ["Chris Deardeuff", "Chris Nicholson", "Maria Marcell"]
+speakers: ["Chris Deardeuff", "Chris Nicholson"]
 categories: ["event", "rseseminar"]
 ---
 <table>
