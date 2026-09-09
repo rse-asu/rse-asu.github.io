@@ -20,22 +20,16 @@ title: Home
     
       <div class="col-lg-3 col-md-8 mx-auto" style="padding: 20px; padding-top: 40px">
       <h3>Upcoming Events</h3>
-     <!--<p>
-        <i class="fas fa-graduation-cap"></i> <a href="{{ "/code-coffee" }}"><b>Code & Coffee</b> on Monday, February 2, 2026, 11am MST. Mini-tutorial: <i>The GitHub CLI</i></a>
-      </p>
-      <p>
-        <i class="fas fa-graduation-cap"></i> No <b>Code & Coffee</b> in August
-      </p>
-      <p>
-        <i class="fas fa-comments"></i> <a href="{{ "/get-together" }}">ASU-RSE Get-Together on March 23, 2025, 11am MST. Discussion topic: <i>tbd</i></a>
-      </p>-->
-      <!--<p>
-       <i class="fas fa-bullhorn"></i> <a href="{{ "/events/2025-10-22-enabling-research-seminar-series.html" }}">The Researcher’s Guide to Including Code Responsibly</a> on January 7, 2026 at 1pm MST. Part of <a href="{{ "/enabling-research-seminar-series" }}">Enabling Research: A Seminar Series on Research Software</a>.
-      </p>-->
-      <p>
-       <i class="fas fa-bullhorn"></i> <a href="{{ "/events/2025-12-19-enabling-research-tdar.html" }}">The past, present, and future of the Digital Archaeological Record: Research computing for the long-term preservation of archaeological data</a> on May 6, 2026 at 1pm MST. Part of <a href="{{ "/enabling-research-seminar-series" }}">Enabling Research: A Seminar Series on Research Software</a>.
-      </p>
-      
+      <!-- Featured events go below here -->
+        <div>     <!--event-->
+          <p>
+            <i class="fas fa-comments"></i> <a href="{{ "/events/2026-09-17-codingagents-scicomp-gather.html" }}"><b>ASU-RSE Coding Agents and Scientific Computing</b></a> on Thursday, September 17, 2026, at 10am MST. Join
+             us in ECA 120 or Zoom to discuss how coding agents are changing scientific computing and what ASU-RSE could do to help researchers adapt their work.
+          </p>
+          <p>
+            New to ASU-RSE? You’re welcome to join us!
+          </p>
+        </div>    <!--end event-->
       </div>
     </div>
 
