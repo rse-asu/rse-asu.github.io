@@ -30,6 +30,51 @@ title: Home
             New to ASU-RSE? You’re welcome to join us!
           </p>
         </div>    <!--end event-->
+
+        <!-- Former event: Code & Coffee -->
+        <!--
+        <div>
+          <p>
+            <i class="fas fa-graduation-cap"></i> <a href="{{ "/code-coffee" }}"><b>Code & Coffee</b> on Monday, February 2, 2026, 11am MST. Mini-tutorial: <i>The GitHub CLI</i></a>
+          </p>
+        </div>
+        -->
+
+        <!-- Former notice: No Code & Coffee -->
+        <!--
+        <div>
+          <p>
+            <i class="fas fa-graduation-cap"></i> No <b>Code & Coffee</b> in August
+          </p>
+        </div>
+        -->
+
+        <!-- Former event: ASU-RSE Get-Together -->
+        <!--
+        <div>
+          <p>
+            <i class="fas fa-comments"></i> <a href="{{ "/get-together" }}">ASU-RSE Get-Together on March 23, 2025, 11am MST. Discussion topic: <i>tbd</i></a>
+          </p>
+        </div>
+        -->
+
+        <!-- Former event: The Researcher’s Guide to Including Code Responsibly -->
+        <!--
+        <div>
+          <p>
+            <i class="fas fa-bullhorn"></i> <a href="{{ "/events/2025-10-22-enabling-research-seminar-series.html" }}">The Researcher’s Guide to Including Code Responsibly</a> on January 7, 2026 at 1pm MST. Part of <a href="{{ "/enabling-research-seminar-series" }}">Enabling Research: A Seminar Series on Research Software</a>.
+          </p>
+        </div>
+        -->
+
+        <!-- Former event: The Digital Archaeological Record -->
+        <!--
+        <div>
+          <p>
+            <i class="fas fa-bullhorn"></i> <a href="{{ "/events/2025-12-19-enabling-research-tdar.html" }}">The past, present, and future of the Digital Archaeological Record: Research computing for the long-term preservation of archaeological data</a> on May 6, 2026 at 1pm MST. Part of <a href="{{ "/enabling-research-seminar-series" }}">Enabling Research: A Seminar Series on Research Software</a>.
+          </p>
+        </div>
+        -->
       </div>
     </div>
 

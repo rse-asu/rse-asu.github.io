@@ -25,4 +25,4 @@ Agenda items:
 - **Possible actions this year.** What could ASU-RSE usefully do? One possibility is a collection of structured cases from research teams, beginning at ASU and designed to extend beyond it. What else?
 - **What to carry forward, and by whom.** What can we reasonably take on, and should it sit with ASU-RSE, a subcommittee, or something else? We'll discuss initial responsibilities, first steps, communication with research teams, and how this work could help ASU-RSE.
 
-New to ASU-RSE? You're welcome to attend! Please [contact the group](https://rse.asu.edu/) (and sign up!) to let us know you'll be joining.
+New to ASU-RSE? You're welcome to attend! Please [join our mailing list](https://forms.gle/pUaWvRWuxTWEX1VG6) and [contact us](mailto:pdressla@asu.edu) to let us know you're coming.
