@@ -21,16 +21,6 @@ title: Home
       <div class="col-lg-3 col-md-8 mx-auto" style="padding: 20px; padding-top: 40px">
       <h3>Upcoming Events</h3>
       <!-- Featured events go below here -->
-        <div>     <!--event-->
-          <p>
-            <i class="fas fa-comments"></i> <a href="{{ "/events/2026-09-17-codingagents-scicomp-gather.html" }}"><b>ASU-RSE Coding Agents and Scientific Computing</b></a> on Thursday, September 17, 2026, at 10am MST. Join
-             us in ECA 120 or Zoom to discuss how coding agents are changing scientific computing and what ASU-RSE could do to help researchers adapt their work.
-          </p>
-          <p>
-            New to ASU-RSE? You’re welcome to join us!
-          </p>
-        </div>    <!--end event-->
-
         <!-- Former event: Code & Coffee -->
         <!--
         <div>
@@ -49,14 +39,18 @@ title: Home
         </div>
         -->
 
-        <!-- Former event: ASU-RSE Get-Together -->
-        <!--
+        <!-- ASU-RSE Get-Together -->
         <div>
           <p>
-            <i class="fas fa-comments"></i> <a href="{{ "/get-together" }}">ASU-RSE Get-Together on March 23, 2025, 11am MST. Discussion topic: <i>tbd</i></a>
+            <i class="fas fa-comments" aria-hidden="true"></i> <a href="{{ "/get-together" }}"><b>ASU-RSE Get-Together</b></a> on Monday, September 28, 2026, at 11am Arizona time (MST).
+          </p>
+          <p>
+            Join us to plan the semester, discuss possible seminars and meetup topics, and follow up on workgroup business.
+          </p>
+          <p>
+            New to ASU-RSE? You’re welcome to join us!
           </p>
         </div>
-        -->
 
         <!-- Former event: The Researcher’s Guide to Including Code Responsibly -->
         <!--
@@ -84,6 +78,15 @@ title: Home
 New Seminar Series</h2>
         We are pleased to announce a new virtual seminar series, <a href="{{ "/enabling-research-seminar-series" }}">Enabling Research: A Seminar Series on Research Software</a>, organized by ASU-RSE! This seminar series explores how research software drives discovery across disciplines.
       </div>
+
+    <section id="coding-agents-workgroup" class="col-lg-9 col-md-8 mx-auto mt-4 p-4 shadow-sm" style="background-color: #f7edf1; border-top: 5px solid #8d1d3f; border-radius: 15px;" aria-labelledby="coding-agents-heading">
+      <p class="fw-bold mb-2" style="color: #8d1d3f;"><i class="fas fa-code me-2" aria-hidden="true"></i>Working Group</p>
+      <h2 id="coding-agents-heading" class="fw-light">AI Coding Agents for Research Software Development</h2>
+      <p>Sharing experiences, resources, and good practices for using AI coding agents to develop research software.</p>
+      <p><i class="far fa-calendar-alt me-2" aria-hidden="true"></i><strong>Third Thursday of every month at 10am Arizona time (MST).</strong></p>
+      <a class="btn btn-primary my-1" href="{{ "/coding-agents.html" }}">Workgroup details</a>
+      <a class="btn btn-outline-secondary my-1" href="https://github.com/rse-asu/rse-asu-coding-agents"><i class="fab fa-github me-2" aria-hidden="true"></i>Explore workgroup resources</a>
+    </section>
   </section>
 
   <div class="bg-light py-5 album">
