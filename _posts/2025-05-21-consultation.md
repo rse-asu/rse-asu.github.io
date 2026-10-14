@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Free Research Software Engineering Consultation"
-date:   2025-05-21 08:00:00 -0400
+date:   2026-10-14 08:00:00 -0400
 image: /assets/images/asu-unicorn.png
 author: Julia Damerow and Susan Massey
 ---
@@ -18,7 +18,7 @@ ASU’s experienced Research Software Engineers (RSEs) are here to help! Researc
 ✔ **Team Training & Workshops:** Conducting hands-on workshops for research teams on version control (Git), testing frameworks, documentation, and scientific programming skills.\
 ✔ **Legacy Code Modernization:** Migrating outdated codebases (e.g., legacy Python 2) to modern languages, frameworks, or cloud environments.\
 ✔ **Grant & Proposal Support:** Supporting grant proposal writing by contributing to technical specifications, data management plans, and software sustainability sections for funding applications.\
-✔ **Open Source Development:** Guiding the creation of open-source research software, including setting up public repositories, and establishing code conventions and contribution guidelines to ensure long-term community adoption.\
+✔ **Open Source Development:** Guiding the creation of open-source research software, including setting up public repositories, and establishing code conventions and contribution guidelines to ensure long-term community adoption.
 
 👉 **Talk to us!** [Submit your request today](https://asu.service-now.com/sp?id=sc_cat_item&sys_id=ba8a031a47323254429bfa57436d43da&table=sc_cat_item&searchTerm=Research%20Software%20Engineering%20Services%20and%20Consultation) and take the next step in strengthening your research software! 
 
