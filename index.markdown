@@ -42,10 +42,7 @@ title: Home
         <!-- ASU-RSE Get-Together -->
         <div>
           <p>
-            <i class="fas fa-comments" aria-hidden="true"></i> <a href="{{ "/get-together" }}"><b>ASU-RSE Get-Together</b></a> on Monday, September 28, 2026, at 11am Arizona time (MST).
-          </p>
-          <p>
-            Join us to plan the semester, discuss possible seminars and meetup topics, and follow up on workgroup business.
+            <i class="fas fa-comments" aria-hidden="true"></i> <a href="{{ "/get-together" }}"><b>ASU-RSE Get-Together</b></a> on Monday, November 30, 2026, at 11am Arizona time (MST).
           </p>
           <p>
             New to ASU-RSE? You’re welcome to join us!
@@ -84,8 +81,11 @@ New Seminar Series</h2>
       <h2 id="coding-agents-heading" class="fw-light">AI Coding Agents for Research Software Development</h2>
       <p>Sharing experiences, resources, and good practices for using AI coding agents to develop research software.</p>
       <p><i class="far fa-calendar-alt me-2" aria-hidden="true"></i><strong>Third Thursday of every month at 10am Arizona time (MST).</strong></p>
-      <a class="btn btn-primary my-1" href="{{ "/coding-agents.html" }}">Workgroup details</a>
-      <a class="btn btn-outline-secondary my-1" href="https://github.com/rse-asu/rse-asu-coding-agents"><i class="fab fa-github me-2" aria-hidden="true"></i>Explore workgroup resources</a>
+      <div class="d-flex flex-wrap justify-content-center gap-3">
+        <a class="btn btn-primary" href="{{ "/coding-agents.html" }}">Workgroup details</a>
+        <a class="btn btn-outline-secondary" href="https://github.com/rse-asu/rse-asu-coding-agents"><i class="fab fa-github me-2" aria-hidden="true"></i>Resources</a>
+        <a class="btn btn-outline-secondary" href="https://github.com/rse-asu/rse-asu-coding-agents/discussions"><i class="far fa-comments me-2" aria-hidden="true"></i>Discussions</a>
+      </div>
     </section>
   </section>
 
